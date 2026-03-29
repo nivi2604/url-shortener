@@ -188,5 +188,5 @@ uvicorn app.main:app --reload
 
 ## Author
 
-Your Name
-GitHub: https://github.com/your-username
+
+GitHub: https://github.com/nivi2604
